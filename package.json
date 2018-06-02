@@ -1,0 +1,19 @@
+{
+  "name": "shape-geometry-ts",
+  "version": "1.0.1",
+  "description": "This NPM contain a method for calculate Area and Perimeter",
+  "main": "main.ts",
+  "dependencies": {
+    "angular-ts-math": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "shape",
+    "geometry"
+  ],
+  "author": "Luca Cortile <cortilel@gmail.com>",
+  "license": "MIT"
+}

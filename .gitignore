@@ -1,0 +1,8 @@
+node_modules
+circle.js
+main.js
+parallelogram.js
+shape.js
+square.js
+triangle.js
+.npmignore
